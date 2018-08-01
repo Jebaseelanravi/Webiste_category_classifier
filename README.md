@@ -1,5 +1,5 @@
 # Webiste_category_classifier
-Contains the source to classify the websites into different domain
+Contains the source to classify the websites into different domain.For example the crickbuzz.com belongs to the domain of sports
 Step by step method to run the projecy;
 
 1.Go the dataset collection folder
