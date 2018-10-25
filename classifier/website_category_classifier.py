@@ -30,6 +30,7 @@ def success(name):
 
     stemmer = LancasterStemmer()
     data = None
+    #added a updated line
 
     # read the json file and load the training data
     with open('training.json') as json_data:
